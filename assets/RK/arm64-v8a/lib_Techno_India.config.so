@@ -1,0 +1,7 @@
+{
+    "interaction": {
+      "type": "script",
+      "path": "lib_RK.so",
+      "on_load": "resume"
+    }
+}
